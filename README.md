@@ -1,2 +1,3 @@
-Sistema para Arduino Web para comunicação com um sistema Java Web utilizando SPring para controle e monitoramento de sensores remotamente. 
+# SmartSensor Reading
+Last project made on INO to talk to a Java Web App runnning with Spring. This project is used for monitoring sensor remotely. Using JSP for front end comunication with Spring MVC.
 Realiza a comunicação com métodos do Spring MVC e seus dados são printados em uma view utilizadno JSP
